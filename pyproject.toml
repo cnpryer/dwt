@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dwt"
+version = "0.0.0"
+description = "A developer workflow tool"
+dependencies = []
+
+[[project.authors]]
+name = "Chris Pryer"
+email = "cnpryer@gmail.com"
